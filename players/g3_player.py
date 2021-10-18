@@ -210,4 +210,4 @@ class Player:
             if difference < min_difference:
                 min_difference = difference
                 best_preference = preference
-        return best_preference
+        return best_preference     
